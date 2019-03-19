@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=glauci_site
+POSTGRES_USER=xZhbnAODPEHzkxfkjTjrMMQAjQjwfCkF
+POSTGRES_PASSWORD=i1fkZj1FdsSt5P4mHyqke2GPsPssKL4eDFl2RJoledWA4INUbzuH7NH81f4ouRfw
